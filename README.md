@@ -1,6 +1,14 @@
 # Diamant
 <h1>Customization Guide</h1>
 
+<h2>Directory</h2>
+<ul>
+  <li><a href="#colors" title="jump to colors">Colors</a></li>
+    <ul>
+      <li><a href="#accent-1" title="jump to accent 1">Accent 1</a></li>
+    </ul>  
+</ul>  
+
 <h2>Colors</h2>
 <h3>Accent 1</h3>
 <ul>
