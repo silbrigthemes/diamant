@@ -3,10 +3,17 @@
 
 <h2>Directory</h2>
 <ul>
-  <li><a href="#colors" title="jump to colors">Colors</a></li>
-    <ul>
-      <li><a href="#accent-1" title="jump to accent 1">Accent 1</a></li>
-    </ul>  
+  <li><a href="#colors" title="jump to colors"><b>Colors</b></a></li>
+  <li><a href="#accent-1" title="jump to accent 1">Accent 1</a></li>
+  <li><a href="#accent-2" title="jump to accent 2">Accent 2</a></li>
+  <li><a href="#background" title="jump to background">Background</a></li>
+  <li><a href="#bold" title="jump to bold">Bold</a></li>
+  <li><a href="#borders" title="jump to borders">Borders</a></li>
+  <li><a href="#italic" title="jump to italic">Italic</a></li>
+  <li><a href="#posts" title="jump to posts">Posts</a></li>
+  <li><a href="#text" title="jump to text">Text</a></li>      
+  <li><a href="#other" title="jump to other aspects"><b>Other</b></a></li>
+  <li><a href="#unordered-lists" title="jump to unordered lists">Unordered Lists</a></li>  
 </ul>  
 
 <h2>Colors</h2>
