@@ -1,4 +1,7 @@
 # Diamant
+
+<img src="https://78.media.tumblr.com/f4755ba3f54f9bcfaf648959809e06f6/tumblr_pdfzkp0eJg1wsskx3o1_1280.png" alt="screenshot of theme"/>
+
 <h1>Customization Guide</h1>
 
 <h2>Directory</h2>
